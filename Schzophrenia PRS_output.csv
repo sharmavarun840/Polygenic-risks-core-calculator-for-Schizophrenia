@@ -1,0 +1,174 @@
+condition name,genes,uniqueid,NMCG225992,NMCG226104,NMCG226105,NMCG226106,NMCG224004,NMCG224005,NMCG227259,NMCG226969
+treatment refractory schizophrenia,"SETP9, SLAMF1",rs11265461,TT,CC,TT,TT,TT,TT,TC,TC
+schizophrenia,'-,rs10489202,TT,GG,GG,GG,TG,GG,GG,GG
+schizophrenia,TRIM26,rs2523722,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,NOTCH4,rs3131296,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,TCF4,rs9960767,AC,AA,AC,AA,AA,AC,AA,AA
+schizophrenia,'-,rs12807809,TT,TT,TT,TT,TT,TT,TC,TT
+schizophrenia,"RPL10P2, MIR3143",rs13194053,TT,TT,TT,TT,TT,TC,TT,TT
+schizophrenia,"RPL10P2, MIR3143",rs13194053,TT,TT,TT,TT,TT,TC,TT,TT
+schizophrenia,HLA-DQA1,rs9272219,TT,TG,TG,GG,TG,TG,TG,TG
+schizophrenia,ZNF804A,rs1344706,TT,TG,TT,TT,TG,TT,TG,TG
+schizophrenia,TCF4,rs1261117,TT,TT,TC,TC,TC,TT,TT,TT
+schizophrenia,PRRC2A,rs1046089,AA,AG,AG,AG,AG,AA,AG,AG
+schizophrenia,POM121L2,rs16897515,AC,CC,CC,CC,CC,AC,CC,CC
+schizophrenia,CDH13,rs8057927,TC,TT,TT,TT,TT,TT,TT,TT
+schizophrenia,LINC01470,rs2910032,TC,TT,CC,CC,TC,CC,TT,TC
+schizophrenia,'-,rs7085104,AA,AA,AG,AA,AG,AA,AG,AA
+schizophrenia,MAD1L1,rs6461049,TT,TC,TC,TC,TC,TT,TT,TT
+schizophrenia,NFU1P2,rs1198588,TA,TA,AA,TA,TT,TA,AA,AA
+schizophrenia,CACNA1C,rs1006737,AA,GG,AG,AA,GG,GG,AG,AG
+schizophrenia,CACNB2,rs17691888,AA,GG,GG,GG,AG,GG,AG,GG
+schizophrenia,TSNARE1,rs4129585,TT,TG,TG,TG,TG,TG,TG,TG
+schizophrenia,LINC01470,rs17504622,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,QPCT,rs2373000,TT,TT,TC,TT,TC,TC,TC,TT
+schizophrenia,SLCO6A1,rs6878284,TC,TT,TT,TC,TC,CC,TC,TT
+schizophrenia,ITIH3,rs4687552,TC,TT,TC,TC,TC,TT,TT,TT
+schizophrenia,LINC01929,rs4801131,TC,CC,CC,CC,TC,TC,CC,CC
+schizophrenia,SNORC,rs778371,TC,TT,TT,TT,TT,TC,TT,TT
+schizophrenia,AKT3,rs14403,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"LINC02057, SMIM15-AS1",rs171748,TT,TT,TC,TC,TT,TC,CC,TC
+schizophrenia,SRR,rs4523957,TT,GG,TT,TT,TG,TG,GG,TG
+schizophrenia,CSMD1,rs10503253,AA,AC,CC,AC,AC,CC,AA,AC
+schizophrenia,CNNM2,rs7914558,AG,GG,AG,GG,AG,GG,AG,GG
+schizophrenia,NT5C2,rs11191580,TT,TT,TC,TT,TC,TT,TC,TT
+schizophrenia,LINC01929,rs12966547,AA,GG,GG,GG,AG,AG,GG,GG
+schizophrenia,MIR137HG,rs1625579,AA,AC,AC,AC,AA,AC,AA,AA
+schizophrenia,'-,rs17662626,AA,AA,AA,AA,AA,AA,AA,AA
+schizophrenia,SOX2-OT,rs9841616,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,PLCH2,rs4648845,TC,TT,TT,TT,TC,TT,TT,TT
+schizophrenia,"PTPRF, KDM4A",rs11210892,AA,GG,AA,AA,AA,AG,AG,AG
+schizophrenia,'-,rs1702294,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"LINC01645, BRINP2",rs6670165,TT,CC,TC,TC,TC,CC,CC,TC
+schizophrenia,MIR29B2CHG,rs7523273,AA,AA,AA,AA,AG,AG,AA,AA
+schizophrenia,SDCCAG8,rs77149735,AA,GG,GG,GG,AG,GG,GG,GG
+schizophrenia,CYP26B1,rs3768644,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,RIMS1,rs1339227,AA,AA,GG,AG,AG,AG,AA,AA
+schizophrenia,"KRT18P50, FUT9",rs117074560,TT,CC,CC,CC,CC,CC,CC,CC
+schizophrenia,"PCGEM1, SLC44A3P1",rs59979824,AA,AA,CC,AC,AC,AC,AC,AA
+schizophrenia,CAPZA1P4,rs7801375,AA,AA,GG,GG,AG,AG,GG,AG
+schizophrenia,DGKI,rs3735025,AA,GG,AA,AA,AA,AA,AG,AG
+schizophrenia,CSMD1,rs10503253,AA,AC,CC,AC,AC,CC,AA,AC
+schizophrenia,GIGYF2,rs6704768,AA,GG,GG,GG,AG,GG,AA,GG
+schizophrenia,"HSPD1P6, LINC02033",rs75968099,TT,CC,TC,TC,TC,TC,CC,CC
+schizophrenia,"ITIH4, ITIH3",rs2535627,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"C3orf49, THOC7",rs832187,TT,CC,CC,TC,TC,CC,TC,TC
+schizophrenia,RFPL4AP3,rs215411,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,CLCN3,rs10520163,TT,TC,TT,TT,TC,TC,TC,TC
+schizophrenia,"LINC01360, RN7SKP19",rs12129573,AC,AC,AC,CC,AC,CC,AC,CC
+schizophrenia,LINC02057,rs4391122,AA,AG,AG,AG,GG,GG,AA,AG
+schizophrenia,MEF2C-AS1,rs16867576,AA,AG,AA,AA,AA,AG,AA,AG
+schizophrenia,MAN2A1,rs4388249,TT,TC,TT,TC,TC,TC,CC,TT
+schizophrenia,ACTG1P22,rs11682175,TT,TT,TC,CC,TC,TC,TT,TC
+schizophrenia,SATB2,rs6704641,AA,AA,AA,AA,AA,AA,AA,AA
+schizophrenia,'-,rs6984242,AA,GG,GG,GG,AG,GG,GG,GG
+schizophrenia,"RNU6-745P, LINC02205",rs12148337,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,ADAMTSL3,rs950169,AA,AG,AG,AG,AG,GG,GG,GG
+schizophrenia,FURIN,rs4702,AA,AG,AG,AG,AG,AG,GG,AG
+schizophrenia,GRIN2A,rs9922678,AA,GG,GG,GG,GG,GG,AG,GG
+schizophrenia,'-,rs7405404,TT,CC,TC,CC,TC,CC,CC,CC
+schizophrenia,"SLC38A7, CNOT1",rs12325245,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,NFATC3,rs8044995,AA,GG,AA,AG,AG,AG,GG,GG
+schizophrenia,SRR,rs4523957,TT,GG,TT,TT,TG,TG,GG,TG
+schizophrenia,TCF4,rs9636107,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"LINC01415, LINC01416",rs72934570,TC,CC,CC,CC,TC,CC,CC,CC
+schizophrenia,"GATAD2A, MAU2",rs2905426,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,ZNF536,rs2053079,TT,TT,TT,TT,TT,TC,CC,TT
+schizophrenia,'-,rs6065094,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"CNKSR2, RNU6-133P",rs1378559,TT,TC,TT,TT,TT,TT,TT,TC
+schizophrenia,TSNARE1,rs4129585,TT,TG,TG,TG,TG,TG,TG,TG
+schizophrenia,DDX10P2,rs11139497,AT,AT,AT,AA,TT,AT,TT,AT
+schizophrenia,CACNB2,rs7893279,TT,TT,TT,TT,TT,TT,TG,TT
+schizophrenia,Y_RNA,rs11027857,AA,AG,GG,AG,AG,AG,GG,AA
+schizophrenia,SELENOH,rs9420,AG,AG,AG,AA,AG,GG,GG,AA
+schizophrenia,C11orf87,rs12421382,TT,CC,CC,CC,TC,CC,CC,CC
+schizophrenia,"DRD2, TMPRSS5",rs2514218,AA,GG,GG,GG,AG,AG,GG,GG
+schizophrenia,GRAMD1B,rs77502336,GC,GC,GC,CC,GC,GC,GC,CC
+schizophrenia,NRGN,rs55661361,AA,AG,AG,GG,GG,AA,AG,AG
+schizophrenia,'-,rs10791097,TT,GG,TG,TG,TG,TT,GG,TG
+schizophrenia,CACNA1C,rs2007044,AA,AA,AG,GG,AA,AG,AG,AG
+schizophrenia,ATP2A2,rs4766428,TC,TT,TC,CC,TC,TT,TC,TC
+schizophrenia,MPHOSPH9,rs2851447,CG,CC,CG,CC,CC,CC,CC,CC
+schizophrenia,PRKD1,rs2068012,AA,GG,GG,AG,AG,AA,GG,GG
+schizophrenia,BCL11B,rs2693698,TT,TC,TC,TC,CC,CC,CC,TC
+schizophrenia,PAK6,rs56205728,AA,GG,GG,GG,AA,GG,GG,GG
+schizophrenia,'-,rs12903146,AG,AG,GG,GG,AG,AA,AG,GG
+schizophrenia,VRK2,rs77622099,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,ZNF823,rs72986630,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"PCNX1, SIPA1L1-AS1",rs221902,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,ALMS1,rs6546857,AA,AA,AA,AA,AA,AA,AA,AA
+schizophrenia,"RN7SKP93, MGAT5",rs6430491,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,RERE,rs2252865,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,FOXO3,rs9398171,TT,TC,CC,TC,TC,TT,TT,TC
+schizophrenia,LINC02326,rs10148671,TT,TC,TC,TC,TC,TC,TC,TC
+schizophrenia,NWD2,rs13117857,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,FRMPD4,rs12840919,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,MLF2,rs11064369,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,SRPK2,rs2057884,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,TCF4,rs9636107,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"TMF1P1, ERCC4",rs12925872,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,AKT3,rs61833239,N/A,N/A,N/A,N/A,N/A,N/A,N/A,TT
+schizophrenia,"LINC01905, LINC01539",rs715170,AG,AG,AG,GG,AG,GG,GG,AG
+schizophrenia,MAP7D1,rs4653164,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,BCL11A,rs7599488,TC,TC,TT,TC,TT,TT,TC,TT
+schizophrenia,FURIN,rs4702,AA,AG,AG,AG,AG,AG,GG,AG
+schizophrenia,SLC39A8,rs13107325,TT,CC,CC,CC,CC,CC,CC,CC
+schizophrenia,ITIH1,rs2710323,AG,AA,AG,AG,AG,AA,AA,AA
+schizophrenia,TSNARE1,rs4129585,TT,TG,TG,TG,TG,TG,TG,TG
+schizophrenia,ZSWIM6,rs7709645,GC,GC,GC,GG,CC,CC,GG,GC
+schizophrenia,"CNKSR2, RNU6-133P",rs1378559,TT,TC,TT,TT,TT,TT,TT,TC
+schizophrenia,CACNB2,rs7893279,TT,TT,TT,TT,TT,TT,TG,TT
+schizophrenia,SNORC,rs778371,TC,TT,TT,TT,TT,TC,TT,TT
+schizophrenia,ATP2A2,rs4766428,TC,TT,TC,CC,TC,TT,TC,TC
+schizophrenia,GLB1L2,rs7113199,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"CACNA2D2, C3orf18",rs11715134,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,EMX1,rs999494,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,ZEB2,rs13016542,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,GRAMD1B,rs77502336,GC,GC,GC,CC,GC,GC,GC,CC
+schizophrenia,"BCL11A, RN7SL361P",rs12328348,AG,AG,GG,AG,AG,GG,GG,AG
+schizophrenia,MRTFA,rs133047,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CC
+schizophrenia,LINC01877,rs76432012,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,LPP,rs79650876,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,HYKK,rs9788721,TT,TT,TC,TC,TT,TC,TT,TC
+schizophrenia,FTCDNL1,rs2577850,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,ZNF536,rs2053079,TT,TT,TT,TT,TT,TC,CC,TT
+schizophrenia,"CD47, LINC00636",rs696366,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,AK4,rs4511159,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,OSBPL10,rs10510653,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"ARNILA, DTNB",rs141216273,N/A,N/A,N/A,N/A,N/A,N/A,N/A,CC
+schizophrenia,"UBE3B, MMAB",rs888194,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,SATB2,rs76950775,AA,GG,GG,GG,AG,GG,GG,GG
+schizophrenia,B9D1,rs79259362,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,UBXN7,rs73891238,TC,CC,CC,TC,TC,CC,TC,TC
+schizophrenia,ABCC8,rs7932043,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"IL21, IL2",rs55741542,TT,TT,TT,TT,TT,TT,TT,TT
+schizophrenia,"SUMO2P2, LINC01239",rs79835034,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,PITPNM2,rs73230058,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,DCBLD1,rs9285425,AG,AA,AG,AA,AG,AG,AA,AA
+schizophrenia,LHFPL3,rs42181,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,MMD,rs11650101,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,RBFOX1,rs17143361,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,PARD6G,rs150477527,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"RNA5SP231, MTND4P3",rs17750149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,SYT12,rs1892928,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,CWC27,rs2042329,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"BIN2P1, RNU6-499P",rs2583636,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"RN7SKP157, KIF2A",rs10939931,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,BACH2,rs62408211,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"LINC02024, IGSF11",rs62275670,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,FKBP9,rs2392177,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,NRG2,rs197197,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,VIT,rs1558701,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,PSD3,rs79456756,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,SOX2-OT,rs62291668,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,MTHFR,rs1801133,TT,CC,CC,CC,TC,CC,CC,CC
+schizophrenia,"RNA5SP94, MIR4432HG",rs929625,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"BARHL2, LINC02609",rs72720396,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"DNAJC17P1, SEC61GP1",rs77399976,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,"RPL12P40, RN7SKP182",rs4799489,AA,AG,AA,AA,AA,AA,AA,AA
+schizophrenia,WNT3,rs199497,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,NGEF,rs62191775,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+schizophrenia,PTPRN2,rs10949662,TT,TC,CC,CC,TC,TC,CC,TC
+schizophrenia,"LINC00707, LINC02665",rs12357428,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"schizophrenia, type 2 diabetes mellitus",TCF7L2,rs7903146,TT,TC,TC,CC,TC,TC,CC,CC
+"attention deficit hyperactivity disorder, unipolar depression, bipolar disorder, autism spectrum disorder, schizophrenia",ITIH3,rs2535629,TC,TC,TC,TC,TC,CC,CC,CC
